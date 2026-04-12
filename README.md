@@ -14,7 +14,7 @@ Publicly, that currently looks like:
 - 🤖 [slagent](https://github.com/sttts/slagent) — Claude talking to Slack — Go
 - ☸️ [kc](https://github.com/sttts/kc) — Kubernetes Commander — Go
 - 🌐 [kubectl-http](https://github.com/sttts/kubectl-http) — HTTPie as a kubectl plugin — Shell
-- 🕹️ [claw64](https://github.com/sttts/claw64) — a claw machine for the Commodore 64 — Go
+- 🕹️ [claw64](https://github.com/sttts/claw64) — an [OpenClaw](https://github.com/openclaw/openclaw)-inspired Claw for the Commodore 64 — Go
 - 🧩 [xf-cli](https://github.com/sttts/xf-cli) — XenForo CLI and MCP tooling — Go
 - 🧪 [shell-ai-widget](https://github.com/sttts/shell-ai-widget) — AI-powered inline shell command editing — Go
 - 🏠 [ha-git-backup](https://github.com/sttts/ha-git-backup) — Git-backed backup add-on for Home Assistant — Shell
@@ -38,7 +38,7 @@ A lot of my work happens upstream rather than only in personal repos.
 Older projects and ecosystems that still represent what I build:
 
 - ⚙️ [elastic-etcd](https://github.com/sttts/elastic-etcd) — elastic discovery wrapper around etcd — Go
-- 🐳 [kubernetes-dind-cluster](https://github.com/sttts/kubernetes-dind-cluster) — multi-node Kubernetes cluster for development — Shell
+- 🐳 [kubernetes-dind-cluster](https://github.com/sttts/kubernetes-dind-cluster) — early Docker-in-Docker Kubernetes dev clusters, an ancestor of kind — Shell
 - 🏗️ [compute-platform](https://github.com/sttts/compute-platform) — Mesos-based compute platform — Shell
 - 🚀 [kubernetes-mesos](https://github.com/kubernetes-retired/kubernetes-mesos) — Kubernetes on Apache Mesos — Go
 - 🏃 [Marathon](https://github.com/d2iq-archive/marathon) — container orchestration on Apache Mesos — Scala
