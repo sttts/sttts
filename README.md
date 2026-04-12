@@ -30,7 +30,7 @@ Publicly, that currently looks like:
 
 A lot of my work happens upstream rather than only in personal repos.
 
-- ☸️ [Kubernetes](https://github.com/kubernetes/kubernetes) — 620 merged PRs across core code and API machinery, including co-authoring CRDs — Go
+- ☸️ [Kubernetes](https://github.com/kubernetes/kubernetes) — 620 merged PRs across core code and API machinery, including co-authoring CRDs and [Watch List](https://github.com/kubernetes/enhancements/blob/master/keps/sig-api-machinery/3157-watch-list/README.md), crucial for large AI clusters — Go
 - 🧩 [kcp](https://github.com/kcp-dev/kcp) — 366 merged PRs across the kcp ecosystem, architectural lead during the Red Hat era, still project advisor, and helped get it into CNCF Sandbox — Go
 - 🔴 [OpenShift](https://github.com/openshift) — 745 merged PRs across the OpenShift org, including many years as control plane lead — Go
 - 🌍 contributions across [Crossplane](https://github.com/crossplane/crossplane) and related projects — Go
