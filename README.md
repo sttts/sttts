@@ -37,7 +37,7 @@ A lot of my work happens upstream rather than only in personal repos.
 
 ## Book
 
-[![Programming Kubernetes cover](https://covers.openlibrary.org/b/isbn/9781492047094-L.jpg)](https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/)
+[![Programming Kubernetes cover](images/programming-kubernetes-cover.jpeg)](https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/)
 
 - [Programming Kubernetes](https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/) — co-authored with Michael Hausenblas — O'Reilly, 2019
 
