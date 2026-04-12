@@ -35,9 +35,9 @@ A lot of my work happens upstream rather than only in personal repos.
 - 🔴 [OpenShift](https://github.com/openshift) — 745 merged PRs across the OpenShift org, including many years as control plane lead — Go
 - 🌍 contributions across [Crossplane](https://github.com/crossplane/crossplane) and related projects — Go
 
-## Talks
+## KubeCon Talks
 
-KubeCon talks playlist: [YouTube playlist](https://www.youtube.com/playlist?list=PL10Tb4xgNVrzhCqlGuWfn3Oqma0e_b5KJ)
+All talks: [YouTube](https://www.youtube.com/playlist?list=PL10Tb4xgNVrzhCqlGuWfn3Oqma0e_b5KJ)
 
 - 2026: [SIG API Machinery: SIG Updates and Deep Dive in the AI/ML Era - Stefan Schimanski, NVIDIA](https://www.youtube.com/watch?v=Or19H4ExOPE)
 - 2025: [The Life (or Death) of a Kubernetes API Request, 2025 Edition - Abu Kashem & Stefan Schimanski](https://www.youtube.com/watch?v=Hc0jj-654lA)
