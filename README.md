@@ -82,6 +82,7 @@ All talks: [YouTube](https://www.youtube.com/playlist?list=PL10Tb4xgNVrzhCqlGuWf
 Older projects and ecosystems that still represent what I build:
 
 - 🐧 [KDE](https://kde.org/) — core contributor, with heritage including KBounce, KMixer, browser plugins, and more — C++, Qt
+- ☁️ [Kubermatic](https://github.com/kubermatic/kubermatic) — invented Kubermatic, predecessor to [Cluster API](https://cluster-api.sigs.k8s.io/) and HyperShift, later sold to Loodse, today Kubermatic GmbH — Go
 - ⚙️ [elastic-etcd](https://github.com/sttts/elastic-etcd) — elastic discovery wrapper around etcd — Go
 - 🐳 [kubernetes-dind-cluster](https://github.com/sttts/kubernetes-dind-cluster) — early Docker-in-Docker Kubernetes dev clusters, an ancestor of kind — Shell
 - 🏗️ [compute-platform](https://github.com/sttts/compute-platform) — Mesos-based compute platform — Shell
