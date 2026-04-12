@@ -1,6 +1,6 @@
 # Stefan Schimanski 👋
 
-I build software: developer tools, infrastructure systems, experiments, side projects, and the occasional weird machine.
+I build software: developer tools, distributed systems, experiments, side projects, and the occasional weird machine.
 
 Publicly, that currently looks like:
 - 100+ original repositories
