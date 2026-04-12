@@ -35,6 +35,12 @@ A lot of my work happens upstream rather than only in personal repos.
 - 🔴 [OpenShift](https://github.com/openshift) — 745 merged PRs across the OpenShift org, including many years as control plane lead — Go
 - 🌍 contributions across [Crossplane](https://github.com/crossplane/crossplane) and related projects — Go
 
+## Book
+
+[![Programming Kubernetes cover](https://covers.openlibrary.org/b/isbn/9781492047094-L.jpg)](https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/)
+
+- [Programming Kubernetes](https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/) — co-authored with Michael Hausenblas — O'Reilly, 2019
+
 ## KubeCon Talks
 
 All talks: [YouTube](https://www.youtube.com/playlist?list=PL10Tb4xgNVrzhCqlGuWfn3Oqma0e_b5KJ)
