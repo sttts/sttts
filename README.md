@@ -10,7 +10,7 @@ Publicly, that currently looks like:
 ## Projects
 
 - 🧠 [nanoschnack](https://github.com/nanoschnack/nanoschnack) — language model training and tokenizer work — Python, Go
-- 🕸️ [kausality](https://github.com/kausality-io/kausality) — causal traceability for Kubernetes resource mutations — Go
+- 🕸️ [kausality](https://github.com/kausality-io/kausality) — causal traceability for Kubernetes resource mutations — Go — [📺](https://www.youtube.com/watch?v=kfqKqXnRKms)
 - 🔗 [kube-bind](https://github.com/kubebind/kube-bind) — inventor of kube-bind for binding services between Kubernetes clusters — Go
 - 🌐 [multicluster-runtime](https://github.com/multicluster-runtime/multicluster-runtime) — invented and bootstrapped multicluster-runtime for multi-cluster controller-runtime controllers — Go
 - 🤖 [slagent](https://github.com/sttts/slagent) — Claude talking to Slack — Go
@@ -41,6 +41,7 @@ KubeCon talks playlist: [YouTube playlist](https://www.youtube.com/playlist?list
 
 - 2026: [SIG API Machinery: SIG Updates and Deep Dive in the AI/ML Era - Stefan Schimanski, NVIDIA](https://www.youtube.com/watch?v=Or19H4ExOPE)
 - 2025: [The Life (or Death) of a Kubernetes API Request, 2025 Edition - Abu Kashem & Stefan Schimanski](https://www.youtube.com/watch?v=Hc0jj-654lA)
+- 2025: [Dynamic Multi-Cluster Controllers With Controller-runtime - Marvin Beckers & Stefan Schimanski](https://www.youtube.com/watch?v=Tz8IcMSY7jw)
 - 2024: [The Missing Talk About API Versioning & Evolution in Your Developer Pl... S. Schimanski, S. Urbaniak](https://www.youtube.com/watch?v=pHRQpqCEvU8)
 - 2024: [Deep Dive Into Generic Control Planes and Kcp - Stefan Schimanski & Mangirdas Judeikis](https://www.youtube.com/watch?v=R9YUOo0MwqY)
 - 2024: [Shift-Left: Past, Present, and Future of Validation in CI... Alexander Zielenski & Stefan Schimanski](https://www.youtube.com/watch?v=KaXIq8Qv77A)
@@ -49,9 +50,25 @@ KubeCon talks playlist: [YouTube playlist](https://www.youtube.com/playlist?list
 - 2022: [Kcp: Towards 1,000,000 Clusters, Name^WWorkspaced CRDs - Stefan Schimanski, Red Hat](https://www.youtube.com/watch?v=fGv5dpQ8X5I)
 - 2021: [SIG API Machinery Deep Dive - App... Abu Kashem & Stefan Schimanski, Joe Betz & Federico Bongiovanni](https://www.youtube.com/watch?v=oiC2w1PVjrQ)
 - 2020: [Into the Deep Waters of API Machinery - Federico Bongiovanni & Daniel Smith, Google, & David Eads](https://www.youtube.com/watch?v=0VWNWJktcHk)
+- 2019: [Tutorial: Mastering Multi-version CRDs: From YAML to a Serious Devel... Stefan Schimanski & Joe Betz](https://www.youtube.com/watch?v=AAxuEPIzHUQ)
+- 2019: [Deep Dive Into API Machinery - Antoine Pelisse, Google & Stefan Schimanski, Red Hat](https://www.youtube.com/watch?v=qTm-g3vtVOE)
+- 2019: [OpenAPI Specs – Towards Native User Experience of CRDs - Stefan Schimanski, Red Hat](https://www.youtube.com/watch?v=fatglKZYdSQ)
 - 2018: [Kubernetes Contributor Summit 2018 - API Codebase Tour](https://www.youtube.com/watch?v=e9Wnhoh0Fy0)
 - 2018: [Deep Dive: API Machinery SIG - Stefan Schimanski, Red Hat & Daniel Smith, Google](https://www.youtube.com/watch?v=kz8BMn9_hk8)
 - 2018: [Audit in Kubernetes, the Future is Here - Stefan Schimanski & Maciej Szulik, Red Hat](https://www.youtube.com/watch?v=Up1qgVIzoVM)
+- 2018: [The Future of Your CRDs – Evolving an API - Stefan Schimanski, Red Hat & Mehdy Bohlool, Google](https://www.youtube.com/watch?v=HsYtMvvzDyI)
+
+## Other Talks
+
+- 2026: [Building a GPT-2 Model from Scratch by Stefan Schminanski](https://www.youtube.com/watch?v=pelJrIzrP3Y)
+- 2025: [Dynamic Multi-Cluster Controllers with controller-runtime - Marvin Beckers & Stefan Schimanski](https://www.youtube.com/watch?v=B4vxcCJjffk)
+- 2023: [The future of CRDs in a post-cluster world - Sebastian Scheele & Stefan Schimanski](https://www.youtube.com/watch?v=XGnSZQLFJpA)
+- 2022: [Panel: The Future of Kubernetes is Control Planes - Red Hat OpenShift Commons 2022 Detroit](https://www.youtube.com/watch?v=1p00SMLletY)
+- 2022: [What if namespaces provided more isolation than just names?](https://www.youtube.com/watch?v=WGrPUyx7qQE)
+- 2018: [Code Base Tour: github.com/kubernetes/kubernetes](https://www.youtube.com/watch?v=yqB_le-N6EE)
+- 2018: [Extending Kubernetes with CustomResouceDefinition - Dr. Stefan Schimanski, Red Hat](https://www.youtube.com/watch?v=Ne4jQF-CPIM)
+- 2018: [Stefan Schimanski about Kubernetes as a API driven platform, Reykjavík Kubernetes Meetup](https://www.youtube.com/watch?v=BiE7oKeEzDU)
+- 2016: [Elastic etcd – automatic add, replace and cluster growth](https://www.youtube.com/watch?v=wpgoxWIbGRs)
 
 ## Legacy
 
