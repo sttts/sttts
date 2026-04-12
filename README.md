@@ -11,6 +11,7 @@ Publicly, that currently looks like:
 
 - 🧠 [nanoschnack](https://github.com/nanoschnack/nanoschnack) — language model training and tokenizer work — Python, Go
 - 🕸️ [kausality](https://github.com/kausality-io/kausality) — causal traceability for Kubernetes resource mutations — Go
+- 🔗 [kube-bind](https://github.com/kubebind/kube-bind) — inventor of kube-bind for binding services between Kubernetes clusters — Go
 - 🤖 [slagent](https://github.com/sttts/slagent) — Claude talking to Slack — Go
 - ☸️ [kc](https://github.com/sttts/kc) — Kubernetes Commander — Go
 - 🌐 [kubectl-http](https://github.com/sttts/kubectl-http) — HTTPie as a kubectl plugin — Shell
@@ -29,7 +30,7 @@ Publicly, that currently looks like:
 A lot of my work happens upstream rather than only in personal repos.
 
 - ☸️ [Kubernetes](https://github.com/kubernetes/kubernetes) — 620 merged PRs across core code and API machinery, including co-authoring CRDs — Go
-- 🧩 [kcp](https://github.com/kcp-dev/kcp) — 366 merged PRs across the kcp ecosystem — Go
+- 🧩 [kcp](https://github.com/kcp-dev/kcp) — 366 merged PRs across the kcp ecosystem, architectural lead during the Red Hat era, still project advisor, and helped get it into CNCF Sandbox — Go
 - 🔴 [OpenShift](https://github.com/openshift) — 745 merged PRs across the OpenShift org, including many years as control plane lead — Go
 - 🌍 contributions across [Crossplane](https://github.com/crossplane/crossplane) and related projects — Go
 
