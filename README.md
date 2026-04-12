@@ -9,8 +9,8 @@ Publicly, that currently looks like:
 
 ## Projects
 
-- 🧠 [nanoschnack](https://github.com/nanoschnack/nanoschnack) — language model training and tokenizer work — Python, Go — [📺](https://www.youtube.com/watch?v=pelJrIzrP3Y)
-- 🕸️ [kausality](https://github.com/kausality-io/kausality) — causal traceability for Kubernetes resource mutations — Go — [📺](https://www.youtube.com/watch?v=kfqKqXnRKms)
+- 🧠 [nanoschnack](https://github.com/nanoschnack/nanoschnack) — language model training and tokenizer work — Python, Go — [📺 KubeCon](https://www.youtube.com/watch?v=pelJrIzrP3Y)
+- 🕸️ [kausality](https://github.com/kausality-io/kausality) — causal traceability for Kubernetes resource mutations — Go — [📺 KubeCon](https://www.youtube.com/watch?v=kfqKqXnRKms)
 - 🔗 [kube-bind](https://github.com/kubebind/kube-bind) — invented CRD binding across Kubernetes clusters — Go — [📺 KubeCon](https://www.youtube.com/watch?v=Uv0ivz5xej4) — [📺 ContainerDays](https://www.youtube.com/watch?v=XGnSZQLFJpA)
 - 🌐 [multicluster-runtime](https://github.com/multicluster-runtime/multicluster-runtime) — invented and bootstrapped multi-cluster controller-runtime — Go — [📺 KubeCon](https://www.youtube.com/watch?v=Tz8IcMSY7jw)
 - 🤖 [slagent](https://github.com/sttts/slagent) — Claude talking to Slack — Go
