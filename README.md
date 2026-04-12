@@ -12,6 +12,7 @@ Publicly, that currently looks like:
 - 🧠 [nanoschnack](https://github.com/nanoschnack/nanoschnack) — language model training and tokenizer work — Python, Go
 - 🕸️ [kausality](https://github.com/kausality-io/kausality) — causal traceability for Kubernetes resource mutations — Go
 - 🔗 [kube-bind](https://github.com/kubebind/kube-bind) — inventor of kube-bind for binding services between Kubernetes clusters — Go
+- 🌐 [multicluster-runtime](https://github.com/multicluster-runtime/multicluster-runtime) — invented and bootstrapped multicluster-runtime for multi-cluster controller-runtime controllers — Go
 - 🤖 [slagent](https://github.com/sttts/slagent) — Claude talking to Slack — Go
 - ☸️ [kc](https://github.com/sttts/kc) — Kubernetes Commander — Go
 - 🌐 [kubectl-http](https://github.com/sttts/kubectl-http) — HTTPie as a kubectl plugin — Shell
