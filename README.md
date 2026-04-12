@@ -9,10 +9,10 @@ Publicly, that currently looks like:
 
 ## Projects
 
-- 🧠 [nanoschnack](https://github.com/nanoschnack/nanoschnack) — language model training and tokenizer work — Python, Go
+- 🧠 [nanoschnack](https://github.com/nanoschnack/nanoschnack) — language model training and tokenizer work — Python, Go — [📺](https://www.youtube.com/watch?v=pelJrIzrP3Y)
 - 🕸️ [kausality](https://github.com/kausality-io/kausality) — causal traceability for Kubernetes resource mutations — Go — [📺](https://www.youtube.com/watch?v=kfqKqXnRKms)
-- 🔗 [kube-bind](https://github.com/kubebind/kube-bind) — inventor of kube-bind for binding services between Kubernetes clusters — Go
-- 🌐 [multicluster-runtime](https://github.com/multicluster-runtime/multicluster-runtime) — invented and bootstrapped multicluster-runtime for multi-cluster controller-runtime controllers — Go
+- 🔗 [kube-bind](https://github.com/kubebind/kube-bind) — inventor of kube-bind for binding services between Kubernetes clusters — Go — [📺 KubeCon](https://www.youtube.com/watch?v=Uv0ivz5xej4) — [📺 ContainerDays](https://www.youtube.com/watch?v=XGnSZQLFJpA)
+- 🌐 [multicluster-runtime](https://github.com/multicluster-runtime/multicluster-runtime) — invented and bootstrapped multicluster-runtime for multi-cluster controller-runtime controllers — Go — [📺 KubeCon](https://www.youtube.com/watch?v=Tz8IcMSY7jw)
 - 🤖 [slagent](https://github.com/sttts/slagent) — Claude talking to Slack — Go
 - ☸️ [kc](https://github.com/sttts/kc) — Kubernetes Commander — Go
 - 🌐 [kubectl-http](https://github.com/sttts/kubectl-http) — HTTPie as a kubectl plugin — Shell
@@ -54,6 +54,7 @@ All talks: [YouTube](https://www.youtube.com/playlist?list=PL10Tb4xgNVrzhCqlGuWf
 - 2024: [Why Kubernetes Is Inappropriate for Platforms, and How to Make It Better](https://www.youtube.com/watch?v=7op_r9R0fCo)
 - 2023: [API Machinery Dual Maintainer Track - Federico Bongiovanni & Leila Jalali & Stefan Schimanski](https://www.youtube.com/watch?v=AfjYrxTiOac)
 - 2022: [Kcp: Towards 1,000,000 Clusters, Name^WWorkspaced CRDs - Stefan Schimanski, Red Hat](https://www.youtube.com/watch?v=fGv5dpQ8X5I)
+- 2022: [Towards Something Better Than CRDs In a Post-Operator World - Stefan Schimanski, Red Hat](https://www.youtube.com/watch?v=Uv0ivz5xej4)
 - 2021: [SIG API Machinery Deep Dive - App... Abu Kashem & Stefan Schimanski, Joe Betz & Federico Bongiovanni](https://www.youtube.com/watch?v=oiC2w1PVjrQ)
 - 2020: [Into the Deep Waters of API Machinery - Federico Bongiovanni & Daniel Smith, Google, & David Eads](https://www.youtube.com/watch?v=0VWNWJktcHk)
 - 2019: [Tutorial: Mastering Multi-version CRDs: From YAML to a Serious Devel... Stefan Schimanski & Joe Betz](https://www.youtube.com/watch?v=AAxuEPIzHUQ)
