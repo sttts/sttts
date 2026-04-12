@@ -20,7 +20,7 @@ Publicly, that currently looks like:
 - 🧩 [xf-cli](https://github.com/sttts/xf-cli) — XenForo CLI and MCP tooling — Go
 - 🧪 [shell-ai-widget](https://github.com/sttts/shell-ai-widget) — AI-powered inline shell command editing — Go
 - 🏠 [ha-git-backup](https://github.com/sttts/ha-git-backup) — Git-backed backup add-on for Home Assistant — Shell
-- 🎮 [kbounce](https://github.com/sttts/kbounce) — Godot recreation of KBounce — GDScript
+- 🎮 [kbounce](https://github.com/sttts/kbounce) — Godot recreation of KBounce — GDScript — [Web](http://kbounce.app/) — [App Store](https://apps.apple.com/de/app/kbounce/id6757555544)
 - ⚡ [godot-quickjs](https://github.com/sttts/godot-quickjs) — QuickJS embedded into Godot 4 — C++
 - 🔧 [crd-gates](https://github.com/sttts/crd-gates) — feature gates for CRDs — Go
 - 🧱 [blender-wrl](https://github.com/sttts/blender-wrl) — Blender plugin for importing WRL files — Python
