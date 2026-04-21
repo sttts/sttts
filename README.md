@@ -5,7 +5,6 @@ I build software: developer tools, distributed systems, experiments, side projec
 Publicly, that currently looks like:
 - 100+ original repositories
 - 2,800+ merged PRs in external open source
-- major long-term contribution history in [Kubernetes](https://github.com/kubernetes/kubernetes), [kcp](https://github.com/kcp-dev/kcp), and [OpenShift](https://github.com/openshift)
 
 ## Open Source
 
