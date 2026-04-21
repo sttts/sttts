@@ -7,7 +7,44 @@ Publicly, that currently looks like:
 - 2,800+ merged PRs in external open source
 - major long-term contribution history in [Kubernetes](https://github.com/kubernetes/kubernetes), [kcp](https://github.com/kcp-dev/kcp), and [OpenShift](https://github.com/openshift)
 
-## Projects
+## Open Source
+
+A lot of my work happens upstream rather than only in personal repos.
+
+### ☸️ Kubernetes — 620 merged PRs in kubernetes/kubernetes, 800+ across the org
+
+- SIG API Machinery lead and maintainer for many years; represented the SIG at KubeCon — [📺 2018](https://www.youtube.com/watch?v=kz8BMn9_hk8), [📺 2019](https://www.youtube.com/watch?v=qTm-g3vtVOE), [📺 2021](https://www.youtube.com/watch?v=oiC2w1PVjrQ), [📺 2023](https://www.youtube.com/watch?v=AfjYrxTiOac), [📺 2026](https://www.youtube.com/watch?v=Or19H4ExOPE)
+- co-authored the foundational CRD improvements 2018–2022: structural schemas (OpenAPI-based type system), pruning, defaulting, webhook conversion — turning CRDs from a prototype into production-grade infrastructure
+- co-designed [Watch List (KEP-3157)](https://github.com/kubernetes/enhancements/blob/master/keps/sig-api-machinery/3157-watch-list/README.md) — streaming informer startup replacing LIST, reducing server-side memory from terabytes to gigabytes in large clusters; critical for AI/ML workloads
+- drove [generic control plane (KEP-4080)](https://github.com/kubernetes/enhancements/blob/master/keps/sig-api-machinery/4080-generic-controlplane/README.md) — extracting kube-apiserver into an embeddable library, enabling projects like kcp to build real control planes on top
+- maintained [kube-openapi](https://github.com/kubernetes/kube-openapi) — the go-openapi fork backing Kubernetes's OpenAPI aggregation pipeline
+- co-authored audit logging in the Kubernetes API server (2017–2018)
+- implemented deepcopy code generation (used across the entire Kubernetes codebase today) — replaced reflect-based copying with generated typed code, significantly improving memory efficiency and runtime reliability
+- co-created the Kubernetes codebase structure of hierarchical staging repos (client-go, apimachinery, api, apiserver, …) — made the codebase significantly more maintainable and enabled its continued growth
+- built the [publishing-bot](https://github.com/kubernetes/publishing-bot) staging build machinery — the system that publishes Kubernetes staging repos (client-go, apimachinery, etc.) as independent Go modules; still running today, including go.mod support
+
+### 🧩 kcp — 450+ merged PRs across the ecosystem
+
+- architectural lead during the Red Hat era; helped transition the project into CNCF Sandbox; still project advisor
+- designed the core multi-tenancy model: APIExport and APIBinding — CRDs defined once, bound into many workspaces without copying, forming the basis for a new kind of platform API
+- drove the authorization model: workspace-scoped RBAC, user scopes, and warrants for cross-workspace delegation
+- built the virtual workspace layer and the sharded cache server for replication across kcp instances
+- kcp was the main real-world driver for the generic control plane work and directly influenced kube-bind and multicluster-runtime
+
+### 🔴 OpenShift — 745 merged PRs across the org
+
+- control plane lead for several years, owning the reliability and lifecycle of the OpenShift API server tier
+- designed the static pod installer model in [library-go](https://github.com/openshift/library-go): revision-based rolling updates for API servers with startup monitors, fallback logic, and prune policies — zero downtime
+- owned the kube-apiserver operator and the OpenShift apiserver operator end-to-end
+- drove KMS encryption at rest for the OpenShift API server, integrating Kubernetes's KMS envelope encryption with OpenShift's key management
+- did multiple rebases of the OpenShift codebase onto new Kubernetes versions, keeping a large downstream fork aligned with fast-moving upstream
+- production issues in OpenShift fed back into SIG API Machinery work upstream, and vice versa
+
+### 🌍 Other
+
+Contributions across [Crossplane](https://github.com/crossplane/crossplane) and related projects — Go
+
+## Private Projects
 
 - 🧠 [nanoschnack](https://github.com/nanoschnack/nanoschnack) — language model training and tokenizer work — Python, Go — [📺 KubeCon](https://www.youtube.com/watch?v=pelJrIzrP3Y)
 - 🕸️ [kausality](https://github.com/kausality-io/kausality) — causal traceability for Kubernetes resource mutations — Go — [📺 KubeCon](https://www.youtube.com/watch?v=kfqKqXnRKms)
@@ -25,15 +62,6 @@ Publicly, that currently looks like:
 - 🔧 [crd-gates](https://github.com/sttts/crd-gates) — feature gates for CRDs — Go
 - 🧱 [blender-wrl](https://github.com/sttts/blender-wrl) — Blender plugin for importing WRL files — Python
 - 📚 [tvniki](https://github.com/sttts/tvniki) — a revived programming learning system from 1996 — Pascal
-
-## Open Source
-
-A lot of my work happens upstream rather than only in personal repos.
-
-- ☸️ [Kubernetes](https://github.com/kubernetes/kubernetes) — 620 merged PRs across core code and API machinery, including co-authoring CRDs and [Watch List](https://github.com/kubernetes/enhancements/blob/master/keps/sig-api-machinery/3157-watch-list/README.md), crucial for large AI clusters — Go
-- 🧩 [kcp](https://github.com/kcp-dev/kcp) — 366 merged PRs across the kcp ecosystem, architectural lead during the Red Hat era, still project advisor, and helped get it into CNCF Sandbox — Go
-- 🔴 [OpenShift](https://github.com/openshift) — 745 merged PRs across the OpenShift org, including many years as control plane lead — Go
-- 🌍 contributions across [Crossplane](https://github.com/crossplane/crossplane) and related projects — Go
 
 ## Book
 
