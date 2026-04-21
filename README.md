@@ -44,7 +44,7 @@ A lot of my work happens upstream rather than only in personal repos.
 
 Contributions across [Crossplane](https://github.com/crossplane/crossplane) and related projects — Go
 
-## Private Projects
+## Personal and Founded Projects
 
 - 🧠 [nanoschnack](https://github.com/nanoschnack/nanoschnack) — language model training and tokenizer work — Python, Go — [📺 KubeCon](https://www.youtube.com/watch?v=pelJrIzrP3Y)
 - 🕸️ [kausality](https://github.com/kausality-io/kausality) — causal traceability for Kubernetes resource mutations — Go — [📺 KubeCon](https://www.youtube.com/watch?v=kfqKqXnRKms)
