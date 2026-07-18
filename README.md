@@ -52,26 +52,26 @@ Contributions across [Crossplane](https://github.com/crossplane/crossplane) and 
 
 ## Personal and Founded Projects
 
-- 🧠 [nanoschnack](https://github.com/nanoschnack/nanoschnack) — language model training and tokenizer work — Python, Go — [📺 KubeCon](https://www.youtube.com/watch?v=pelJrIzrP3Y)
-- 🕸️ [kausality](https://github.com/kausality-io/kausality) — causal traceability for Kubernetes resource mutations — Go — [📺 KubeCon](https://www.youtube.com/watch?v=kfqKqXnRKms)
-- 🔗 [kube-bind](https://github.com/kubebind/kube-bind) — invented CRD binding across Kubernetes clusters — Go — [📺 KubeCon](https://www.youtube.com/watch?v=Uv0ivz5xej4) — [📺 ContainerDays](https://www.youtube.com/watch?v=XGnSZQLFJpA)
-- 🌐 [multicluster-runtime](https://github.com/multicluster-runtime/multicluster-runtime) — invented and bootstrapped multi-cluster controller-runtime — Go — [📺 KubeCon](https://www.youtube.com/watch?v=Tz8IcMSY7jw)
 - 🧭 [kvisl](https://github.com/sttts/kvisl) — composable modelling language for agent-editable architecture diagrams — JavaScript
-- 📖 [kubectl-doc](https://github.com/sttts/kubectl-doc) — YAML-shaped Kubernetes API documentation for terminal, Markdown, TUI, and web — Go
-- 🗺️ [caltopo-mcp](https://github.com/sttts/caltopo-mcp) — headless MCP server for managing CalTopo maps — TypeScript
+- 🔗 [kbind](https://github.com/kbind-dev/kbind) — formerly kube-bind; invented CRD binding across Kubernetes clusters — Go — [📺 KubeCon](https://www.youtube.com/watch?v=Uv0ivz5xej4) — [📺 ContainerDays](https://www.youtube.com/watch?v=XGnSZQLFJpA)
 - 🧰 [skills](https://github.com/sttts/skills) — Claude Code and Codex plugins for agent workflows — HTML, Python, Shell
-- 🤖 [slagent](https://github.com/sttts/slagent) — Claude talking to Slack — Go
-- ☸️ [kc](https://github.com/sttts/kc) — Kubernetes Commander — Go
-- 🌐 [kubectl-http](https://github.com/sttts/kubectl-http) — HTTPie as a kubectl plugin — Shell
+- 🌐 [multicluster-runtime](https://github.com/multicluster-runtime/multicluster-runtime) — invented and bootstrapped multi-cluster controller-runtime — Go — [📺 KubeCon](https://www.youtube.com/watch?v=Tz8IcMSY7jw)
+- 🗺️ [caltopo-mcp](https://github.com/sttts/caltopo-mcp) — headless MCP server for managing CalTopo maps — TypeScript
+- 📖 [kubectl-doc](https://github.com/sttts/kubectl-doc) — YAML-shaped Kubernetes API documentation for terminal, Markdown, TUI, and web — Go
 - 🕹️ [claw64](https://github.com/sttts/claw64) — an [OpenClaw](https://github.com/openclaw/openclaw)-inspired Claw for the Commodore 64 — Go
+- 🧠 [nanoschnack](https://github.com/nanoschnack/nanoschnack) — language model training and tokenizer work — Python, Go — [📺 KubeCon](https://www.youtube.com/watch?v=pelJrIzrP3Y)
 - 🧩 [xf-cli](https://github.com/sttts/xf-cli) — XenForo CLI and MCP tooling — Go
+- 🤖 [slagent](https://github.com/sttts/slagent) — Claude talking to Slack — Go
 - 🧪 [shell-ai-widget](https://github.com/sttts/shell-ai-widget) — AI-powered inline shell command editing — Go
+- 🕸️ [kausality](https://github.com/kausality-io/kausality) — causal traceability for Kubernetes resource mutations — Go — [📺 KubeCon](https://www.youtube.com/watch?v=kfqKqXnRKms)
 - 🏠 [ha-git-backup](https://github.com/sttts/ha-git-backup) — Git-backed backup add-on for Home Assistant — Shell
+- 📚 [tvniki](https://github.com/sttts/tvniki) — a revived programming learning system from 1996 — Pascal
 - 🎮 [kbounce](https://github.com/sttts/kbounce) — Godot recreation of KBounce — GDScript — [Web](http://kbounce.app/) — [App Store](https://apps.apple.com/de/app/kbounce/id6757555544)
 - ⚡ [godot-quickjs](https://github.com/sttts/godot-quickjs) — QuickJS embedded into Godot 4 — C++
-- 🔧 [crd-gates](https://github.com/sttts/crd-gates) — feature gates for CRDs — Go
+- ☸️ [kc](https://github.com/sttts/kc) — Kubernetes Commander — Go
 - 🧱 [blender-wrl](https://github.com/sttts/blender-wrl) — Blender plugin for importing WRL files — Python
-- 📚 [tvniki](https://github.com/sttts/tvniki) — a revived programming learning system from 1996 — Pascal
+- 🌐 [kubectl-http](https://github.com/sttts/kubectl-http) — HTTPie as a kubectl plugin — Shell
+- 🔧 [crd-gates](https://github.com/sttts/crd-gates) — feature gates for CRDs — Go
 
 ## Book
 
