@@ -22,6 +22,13 @@ A lot of my work happens upstream rather than only in personal repos.
 - co-created the Kubernetes codebase structure of hierarchical staging repos (client-go, apimachinery, api, apiserver, …) — made the codebase significantly more maintainable and enabled its continued growth
 - built the [publishing-bot](https://github.com/kubernetes/publishing-bot) staging build machinery — the system that publishes Kubernetes staging repos (client-go, apimachinery, etc.) as independent Go modules; still running today, including go.mod support
 
+### 🟢 NVIDIA Dynamo — 60+ merged PRs since April 2026
+
+- active contributor to [Dynamo](https://github.com/ai-dynamo/dynamo), NVIDIA's distributed inference serving framework; focused on the Kubernetes operator and APIs
+- built and hardened multi-version CRD conversion between v1alpha1 and v1beta1, including sparse structural preservation and fuzz coverage
+- centralized operator feature gates and strengthened admission, validation, defaulting, namespace isolation, controller wiring, and upgrade reliability
+- contributed to related NVIDIA projects [Grove](https://github.com/ai-dynamo/grove) and [AICR](https://github.com/NVIDIA/aicr)
+
 ### 🧩 kcp — 450+ merged PRs across the ecosystem
 
 - architectural lead during the Red Hat era; helped transition the project into CNCF Sandbox; still project advisor
@@ -49,6 +56,10 @@ Contributions across [Crossplane](https://github.com/crossplane/crossplane) and 
 - 🕸️ [kausality](https://github.com/kausality-io/kausality) — causal traceability for Kubernetes resource mutations — Go — [📺 KubeCon](https://www.youtube.com/watch?v=kfqKqXnRKms)
 - 🔗 [kube-bind](https://github.com/kubebind/kube-bind) — invented CRD binding across Kubernetes clusters — Go — [📺 KubeCon](https://www.youtube.com/watch?v=Uv0ivz5xej4) — [📺 ContainerDays](https://www.youtube.com/watch?v=XGnSZQLFJpA)
 - 🌐 [multicluster-runtime](https://github.com/multicluster-runtime/multicluster-runtime) — invented and bootstrapped multi-cluster controller-runtime — Go — [📺 KubeCon](https://www.youtube.com/watch?v=Tz8IcMSY7jw)
+- 🧭 [kvisl](https://github.com/sttts/kvisl) — composable modelling language for agent-editable architecture diagrams — JavaScript
+- 📖 [kubectl-doc](https://github.com/sttts/kubectl-doc) — YAML-shaped Kubernetes API documentation for terminal, Markdown, TUI, and web — Go
+- 🗺️ [caltopo-mcp](https://github.com/sttts/caltopo-mcp) — headless MCP server for managing CalTopo maps — TypeScript
+- 🧰 [skills](https://github.com/sttts/skills) — Claude Code and Codex plugins for agent workflows — HTML, Python, Shell
 - 🤖 [slagent](https://github.com/sttts/slagent) — Claude talking to Slack — Go
 - ☸️ [kc](https://github.com/sttts/kc) — Kubernetes Commander — Go
 - 🌐 [kubectl-http](https://github.com/sttts/kubectl-http) — HTTPie as a kubectl plugin — Shell
